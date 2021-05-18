@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tamir7.contacts:contacts:1.1.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/c169b1b426ab13ae36b1e56f5ef733f812222f7e/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/c169b1b426ab13ae36b1e56f5ef733f812222f7e/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tamir7.contacts/contacts/1.1.7/f6f54872c9c2457193985d259e058a2c5ea323b/contacts-1.1.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

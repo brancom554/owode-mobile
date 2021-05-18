@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Epesa.iml" filepath="$PROJECT_DIR$/Epesa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/epesa.iml" filepath="$PROJECT_DIR$/.idea/modules/epesa.iml" group="epesa" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/epesa-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/epesa-app.iml" group="epesa/app" />
+    </modules>
+  </component>
+</project>

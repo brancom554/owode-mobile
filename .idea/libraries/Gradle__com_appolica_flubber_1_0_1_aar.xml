@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.appolica:flubber:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/9d8e7ab2d002ce390c42c820980754e9fe7ed4cb/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/9d8e7ab2d002ce390c42c820980754e9fe7ed4cb/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.appolica/flubber/1.0.1/46268e001855564decb48da2265db6cfdd0257a6/flubber-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

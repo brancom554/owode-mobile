@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.3.0_3dda6aeb9b58cec1f740b8b1e986aa3162a7042e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.8.0\f765f004f3e201bd6ad0904266e605d7fb776d5\logging-interceptor-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f765f004f3e201bd6ad0904266e605d7fb776d5">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.8.0_8b0c78bcce97bfb8662c06247c3ceca133aabd6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\0c996eb6b1f392aa303ab36e7268342922f17454\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a5cbc42192d2afde319e4babe59bf8e41a49d35">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_710c0e7284280bbf1849a4b7c274b382056a274c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\8eced15b3f70b47f7d3bfd28380f453b5f2f19f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0da2f8459495e4a30df229e36e0b9a36e496eece">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43fc12caf66a1686e45ba9f4654167ae9bc96309\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\6583642fbf7081556a4cbf14582cf80937e6350e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20d6aa9a18ea9833cd2bee95dff7cd303cdb80e4">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b17cb1540cdd73ceb16dabfd7523742f3e89e10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\e625a1e9f273ea0e490c187ffb73a2ffa4d8f465\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f519b8c692038a47ee404b6ea6b847f6402000c">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_006d886584d2d889bbde3653244a09db4c04f711\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\705575eec64e4cf4d9ad7f14a6056db2eb1c7e39\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2304ea5fd4de205ef365e8a1cdf44939a05bf41e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\c5143cccd4b249332d78edb7ae4634ded9851084\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b723383fcc5c9e6d233f12cf3670c153dcb9f72">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ce9183c5491aa7044f1ec44b172c7ff44fabb3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\706e39b924ecc12f5c1572724d8066d5aaaf374e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6314fd1ca55eb2a72d2f6030e4996a2a806eaf25">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_53acd183e081c9d59b3e4589f53d4bbd3c372a1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\com.googlecode.libphonenumber\libphonenumber\8.8.2\37934a64f25d6ce248493444b8de1ffbcc9fb819\libphonenumber-8.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="37934a64f25d6ce248493444b8de1ffbcc9fb819">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\libphonenumber-8.8.2_2a3458a909a83b82dc044f7b24123b0006391b82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_ad44863a59bfe42dbecdb15fb70015bffbd28915\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\51c90dcf4472eb06ab25a6bf00d0d0f890fde36a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d68a8fd0dd5d9a2b4e415a8411bf8b6aa50542f">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83cd93780e33d31619c6770ae6d0e9b5d60abad8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\53dc95a1f3928c034888ccc472f81169d0ea6341\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bacb69f6ccbe7d65eac72033513afa3b81979001\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\ac4259259a77c8cc6faf4bba3239f45ce14a5e4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ee075177bd403c333d4843b92c4b6c55db929ed">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0de99a82dc52480b8d3df70c9291fb468741bda9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\com.github.blocoio\faker\1.2.5\8c4688b27dff193bd0937672c1c9a7685a0695ca\faker-1.2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8c4688b27dff193bd0937672c1c9a7685a0695ca">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\faker-1.2.5_395e3e8e6aee44134f450220c95167de7bcb603d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations-java5\15.0\7011b4551a8451906759b05814c58b9eb829ea9b\annotations-java5-15.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-java5-15.0_77947979e0de265e3d5697fd0f1911c16c3366c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_3935103f28330b4905c55b578784c9f7a3c94540\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\dbaf79f01c186d6f620000e319571a34a009ecfc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="414c5172d9739a35339700d133288418059e7d83">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_04a96edfee198f2a6a69d4a3c60127b7f5e5c44e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\b38e6662ca1b0776a3aa19a8b92af65580af9898\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a44d969c55b4ae85f339ebd0df30f96251174a53">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0165c327fb71bebc225a7b95023c7c020e6803d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\58b91e85e8015a0c091b2227c7110a3563f52a00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="89ba8466f3e32427af7aa725eb7be31a15c78a77">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21690710df00f7dd4d708dab0ccbf1cf540a1d9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\62efbae4fc879c61134ed8141d6a41c876c65e7d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd600a8ed97b1e850ad1afdb5a1abfc4b2866427\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.9.9\f7b520c458572890807d143670c9b24f4de90897\joda-time-2.9.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7b520c458572890807d143670c9b24f4de90897">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\joda-time-2.9.9_199de21e3043b1a4f745d8099541502615e74fe2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.8.0_9e23391ee2069c789d98fa2c80de36cef6990093\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_5317ae314133ef49959ae418a3b921b99ebedd68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\c169b1b426ab13ae36b1e56f5ef733f812222f7e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81e88bdd75d4c3488ab8e7621572855ada34c0e7">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f75e822893104ceb2fda811aa68da32996b94be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\9dc23b874ec10134ccb973a2800f95bd275b27e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e6b94b72d7912a627fb1629c310b2bca9261f06">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b8c8d55c928ab1da8802bd87e63f7dc4acc5e15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\2d12fc7b94e4b58ff1c5f3b7de7c9a14f6bb35bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4e1889e9a78be67e09dfcc19fdec6b5932805b88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\746cc9ff8b52b33bbd2b18eea51516f40cbe53ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="700f8f1135982ef49cb91121a76490565f069553">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ce33e3c21697137a4362073c7e88ac13151669c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\2303981ee95511a50be917f6971a40efa5f8ffea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43cbd6d23faca2678b28f19ffc2006c0d97087f3">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_657603afb15278328dc08a186a2b68be9de70dd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-1.3.9_1fec9c6e5e9096fa086ede5e3d80dd18caf7d263\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.3.0_ac2ee40790201a949617aa9c45822b3a24b7c19b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\0da3468005468a1e142003fc3491c36aa4ee2ce8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9995a46c177a05bf546bb5e96c0952b7a163fe0e">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e92f74088d01f4d2142ee6cf77f56bfa70e797de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\c108c80814886a3e4e3508b8d57acbbaa4e091ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d081fede6d128343d3e0585c7ba8608c65ce226d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\64e9d04a57b30406844bc5b7aa08fce999ab124f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="10cf587d86b323489d5d493077f51754cfd1cc27">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dee2966ef3e9d464524cfac7bb445286ef26d0d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\126b4ce51da4d679f4576511af797dbea6fa2c68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a906a47904d39a6042b2e3387270a059f3b782d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\e3e670fe1735068a51f6795a6ce2da50ef5a3739\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fab3c7faab3bc30df0fbf2cbebfcb21753c95260">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4e57ff1ff7e2c2475fcfcfa8b2978d5f755118fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\4d59fdd8cb19a29eb3bb6d576d7499617dbc5995\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80d9ff49e99ff481062ea190b43e8d6bdffd4ddc">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6892fa2e686538965e212bb8ebba746aab71fcc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\11eb051118470b05b633bb9416dba7acd2088421\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77e3f210322743390ab44e667cc8988ba5d9433b">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14622ca0fcf8c48150132bf4b7206d0a70736f29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\9eef1e93bc7a92dba8800d5b14313349f0f95a96\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c7610361f73ce34c12c2845feb4ccc0b4fcc500\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\9d8e7ab2d002ce390c42c820980754e9fe7ed4cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e7bb375f27516fc21066ed207dc31d52d688bbd">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e328f683241886c95c5f6d8c85adcccf0e7a3966\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\c3818c1a1d32f12f9df5e93fa6fb08e8bba3c651\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6caf5baf93c08457dda261fa5a4a8ace789386f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\e9e15745bc71d00e814bbb35bd2f8004f76b1938\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0934f9708de1634c99b33f63f6b90ff3955921d2">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11fdffa2a60e375775d3b7ab540f4910e868bb44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_655433017ded5913bb3eee4d62a1d791669afed8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\b7e2f397a8372ec6e1dea9b07839087071a427e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77de09eb0db31b3cda7bda7a3f983acce5911a7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\6ff705dfdb288455138a2c3f7b084ad84c374891\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5753660caa486676aacf05857930d76589a09af9">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_805a7fa0964c22d44ee2b733b602a908c514fae7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\3.5.0\1e4b144dd28b139ae890ce2868979b12e1f2d7c7\realm-annotations-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e4b144dd28b139ae890ce2868979b12e1f2d7c7">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\realm-annotations-3.5.0_259ee80372119aa8273b6a655c4cae2328a5d302\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\41b734d85297533fb0c55a595c05e54b080215b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="55fc78591365a475fe30fd84d7c18450449111f6">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26e4a0c8fe4734ce9b43ec2772ce217fd999fc0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\f3bc8d9245f4743502d68a3901f49cbafd222693\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2462e2d8340a28f47ae0862a113a7558e13bfbc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\2901638ddc0b7f10676d46d86c3b64e224a6f3b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00f99fd72c14727d277f33ed26c6db13fe7b247e">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_538c7a7a59842fd4d6981f543c7ce97e43ba720c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\1a8e4f243a0e7142262262ec23d2eb22e67cd99b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be711dd6876df25d8233930bd0959a3e5ffa192a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\0bfaa18362834d39f360ea1f80ccd442dcd54477\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3da801940221b852f3a3ee82bfe2a10d39e4ffa">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe454e2debcc913e7445219c09c75c596bab2a2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\3b2e6c1037a810efe4986e1cbdb23bfed7954f99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc63ef5d048c9401b156ffca708d0d6f3ecbaa41">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ae9f6a19d0ab6bd9d422cd3d49b761d222a05be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\8b6bcc503b87368760fe62d0e9693b13ccaca6df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_54f0ca42b136cfaa16346435723f145e7b30155f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.3.0_27a5d05444f46321083c10a549127b16312a038f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\b83ee1af4c8283ff4e7adc973bcada1388f66ff1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30cbc9b94a9a9e3c5d4252fde59e8db066460917">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f257c72108ae68340f0a62e9fa7ed933cc6fc41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_4a6720ccd4f8db337534f83b4be72e2054b0833a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\d906c4c79e43fec7659e7a1ff974784e0f5bf8a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8040d53ecd4bd895360eafdc25e1c1cc9479e6aa">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_daa2de6bdd8f41b97144e1fe41eaf8a1a9713e18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.1_75a16899e66f198814818ce4cecc24e5aa6c1307\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\481f33fcfea002b0b5cc465d3d9cdbcf88e43964\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bc0faecece849fe6a848467cb79d37b1557ac17">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c0214c218dc06b4a6ac23255626a6ccebcb41a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\org.parceler\parceler-api\1.1.9\90a1d1effa99070aa6325918f05dd2bad1704b\parceler-api-1.1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0090a1d1effa99070aa6325918f05dd2bad1704b">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\parceler-api-1.1.9_00a23c2849cfb255b49ee60301b81e3173a45787\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\a7d2bcf687ca761516419ceefe43f7cd4e20708b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eed36bf9cb814713112b5cd998024b65e1e2d91b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\8491baec2f6ade19906a7cdba91ac926e99bf2b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76f8caf4d63669ffb69946e8705c5af8e6ea2ce9">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33f470f39225e9d48bb24b7fff0925ff57cbf57a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_40fd27e8d1dee5bedb61f41b32699d149936e65e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\f216067eb1aa227357fa58fe088c2ccdd85a38ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6555c483abcdcc71ef5f1d47bb1ff3fee35ef1b2">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_56c8ab46c8f9061d2de40c56c227d35f107dcb94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\fe76318ceaa473294f9682a3f945809c60faefee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_037f0a7ecb1c9ae5c21ffdd65f91d3d2af258fef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-cli-1.2_2369b405f7d6668dfc0fe0ccd2e62436030a4885\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\cceb7761e647490b9dbecf97359b72ae6aaa13fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c354f878ab34215a1e556c3921cf956f55c4239">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74a060987b49ab9b1df7cd41575f624f7ad229a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\30fb3d65e8910edbc48815d067160a4448604ce7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee2d1b72eb70d357809e9cd337276235f1cd6798">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d34eaaf8a65d1801b6fc3e370b1580f655fa8d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\com.github.bmoliveira\snake-yaml\v1.18-android\b32e2afc73ed8ea4eb83000a3addf14c5399474b\snake-yaml-v1.18-android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b32e2afc73ed8ea4eb83000a3addf14c5399474b">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\snake-yaml-v1.18-android_c1f07ce82386b3a25692019f15df66c67c784910\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\22fa67216345434c4eaba6eef055e5f4f6279ddd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_384cbf5ed6ed4d5b6d8a32c03ddd04d1b3005d0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\a5dcf943b8c67b3c13e25665cd7ca7137672617c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31d502095f715c616415a24c4e2f6d2e542218eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\3109659fcd1bf7f9593a227e443cc38339fb4197\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2673ac97c3f90c9da0c25563777a2a0e10de9ae2">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_326b80a0ee13f0e1887ca86e09678b5b03a4fb08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\ae20f546195cebe7917fb757d9509a6a9a87fd86\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29af0f4b1d0f855e54d965157ab303ccd0a033d0">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_27343b90ea7e1ee9fdad0ff44731ca055af16104\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.0-beta1\4205dd8c33ada1468ab377afff0be95304ef72a\constraint-layout-solver-1.1.0-beta1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04205dd8c33ada1468ab377afff0be95304ef72a">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.1.0-beta1_87b1ce137a948279a4bda41d96615151e86847a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\5243a1f78380a2d9997eb374d22301f4e41a6b47\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bed98ea7af8c5c4202820875e856dd3eb296e22d">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f487749b5dec92eeb18fcf418680fae4e5259286\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\8a255714f3d6cba490640ed1a5ab368f901b3c06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e0e43fe7d85f2d7428a220e91a6e7e1566beed0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.8.1_c7503175cc97b6b9ac959ac5da411063292f4eb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_a45e9b37f62cc87eafd0a6912fee0061a1098aea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\d16a53dd7ee5ccfbafa35826588655f344a3566e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f44508c4bdb9223ac2de6e8bdf5f7ec38938e6ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jisdev\.android\build-cache\e3a0f64c0c6c224769d961badb4718a19f1d3571\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Projects\epesa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3332c1e2df962452ea936be805cf46a4308e8c07\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.thanosfisherman.mayi:mayi:1.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/e9e15745bc71d00e814bbb35bd2f8004f76b1938/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/e9e15745bc71d00e814bbb35bd2f8004f76b1938/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.thanosfisherman.mayi/mayi/1.4/95f555e1d08129c49a732639e77f865c0b0ad5b1/mayi-1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
